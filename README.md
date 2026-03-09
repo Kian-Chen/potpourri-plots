@@ -32,6 +32,15 @@ Potpourri Plots provides reusable visualization templates for common scientific 
   - Multi-panel comparison of spatial patterns
   - Custom color ranges and normalization
 
+### 4. Efficiency Bubble Charts
+- **File**: `demos/efficiency_bubble_demo.ipynb`
+- **Capabilities**:
+  - Bubble charts for model efficiency analysis (MAE vs parameters)
+  - FLOPs represented as bubble size with customizable scaling
+  - Multi-panel comparison across different tasks
+  - Automatic color schemes and text labeling
+  - Customizable center markers and label offsets
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
